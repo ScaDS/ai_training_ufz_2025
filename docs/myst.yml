@@ -51,9 +51,8 @@ project:
 
 site:
   template: book-theme
-  # title:
-  # options:
-  #   logo: my_logo.png
+  options:
+    logo: logo.png
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
