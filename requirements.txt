@@ -1,6 +1,6 @@
 jupyter-book>=0.7.0b
-sphinx-book-theme
 matplotlib
+mystmd
 numpy
 ipy-llm-kernel
 jupyterlab-spellchecker

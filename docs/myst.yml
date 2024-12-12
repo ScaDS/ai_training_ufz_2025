@@ -1,0 +1,59 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: AI in Everydays Research Routine
+  authors: 
+  - name: Robert Haase
+    orcid: 0000-0001-5949-2327
+    github: haesleinhuepf
+  - name: Ronny Gey
+    orcid: 0000-0003-1028-1670
+    github: geyslein
+    affiliations:
+      - id: ufz
+        institution: Helmholtz Center for Environmental Research - UFZ
+        ror: 000h6jb29
+  license: CC-BY-4.0
+  # resources: [https://github.com/ScaDS/ai_training_ufz_2025] This should be the place where slides etc. could be mentioned. Haven't found a proper frontmatter documentation for it so far.
+  open_access: true
+  description:
+  copyright: "Copyright: Ronny Gey, UFZ Leipzig, Robert Haase, ScaDS.AI Leipzig, licensed <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY 4.0</a> unless mentioned otherwise. Contributions and feedback are welcome."
+  keywords: [AI, OER]
+  github: https://github.com/ScaDS/ai_training_ufz_2025
+  # bibliography: []
+
+  toc:
+  - file: intro.md
+  - title: "Session 1: Introduction to AI daily work"
+    children:
+    - file: demo1/10_prompting.ipynb
+    - file: demo1/20_use_cases.ipynb
+    - file: demo1/30_prompt_engineering.ipynb
+    - file: exercise1/readme.md
+
+  - title: "Session 2: Ethical use of AI"
+    children:
+    - file: exercise2/readme.md
+
+  - title: Optional programming exercise  
+    children:
+    - file: exercise3/readme.md
+    - file: exercise3/chatbot_explained.ipynb
+    - file: exercise3/gui.ipynb
+  
+  - title: Links
+    children:
+    #- url: https://events.hifis.net/event/1892/
+    #  title: Event page
+    #- url: https://zenodo.org/records/...
+    #  title: Download Slides
+    - file: imprint.md
+
+site:
+  template: book-theme
+  # title:
+  # options:
+  #   logo: my_logo.png
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
