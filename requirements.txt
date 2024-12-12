@@ -1,6 +1,7 @@
-jupyter-book>=0.7.0b
+jupyter-book>=0.7.0
 matplotlib
 mystmd
 numpy
 ipy-llm-kernel
 jupyterlab-spellchecker
+myst-parser
