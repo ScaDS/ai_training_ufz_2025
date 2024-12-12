@@ -20,9 +20,10 @@ For modifying the LLM-notebooks (optional), make sure [ipy-llm-kernel](https://g
 python -m ipy_llm_kernel install
 ```
 
-To build the book, you can run this from the same folder:
+To build the book, you can run this from the `docs` folder:
 
 ```bash
+cd docs
 myst init
 myst build
 myst start #starts a web server with the built content at https://localhost:3000
