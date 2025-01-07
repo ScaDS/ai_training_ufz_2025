@@ -51,9 +51,10 @@ project:
 
 site:
   template: book-theme
-  # title:
-  # options:
-  #   logo: my_logo.png
+  options:
+    logo: logo.png
+    extra_css:
+      - _static/custom.css
   actions:
     - title: Learn More
       url: https://mystmd.org/guide
