@@ -4,7 +4,7 @@ This Jupyter book is rendered to this website:
 
 <https://scads.github.io/ai_training_ufz_2025>
 
-It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and build using [Jupyter book](https://jupyterbook.org/intro.html).
+It is maintained using [Jupyter lab](https://jupyterlab.readthedocs.io/en/stable/) and built using [Jupyter book](https://jupyterbook.org/intro.html).
 
 To edit this book, install depencencies like this:
 
