@@ -31,7 +31,7 @@ myst start #starts a web server with the built content at https://localhost:3000
 
 The book is built into `docs/_build/site/`. It should look like this:
 
-![](docs/book.png)
+![](docs/book.png) 
 
 ## Acknowledgements
 
