@@ -42,7 +42,7 @@ def prompt_ollama(message:str, model="gemma:2b"):
     return response.choices[0].message.content
 
 
-def prompt_blablador(message:str, model="gpt-3.5-turbo"):
+def prompt_blablador(message:str, model="1 - Llama3 405 on WestAI with 4b quantization"):
     """A prompt helper function that sends a message to Blablador (FZ Jülich)
     and returns only the text response.
     """
