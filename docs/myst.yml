@@ -31,11 +31,16 @@ project:
     - file: demo1/30_prompt_engineering.ipynb
     - file: exercise1/readme.md
 
-  - title: "Session 2: Ethical use of AI"
+  - title: "Session 2: Good Scientific Practices and Ethical use of AI"
     children:
-    - file: exercise2/readme.md
+    - file: session2/readme.md
 
-  - title: Optional programming exercise  
+  - title: "Session 3: Tools and Exercises"
+    children:
+    - file: session3/introduction.md
+    - file: session3/exercise.md
+
+  - title: "Optional programming exercise"  
     children:
     - file: exercise3/readme.md
     - file: exercise3/chatbot_explained.ipynb
@@ -43,8 +48,12 @@ project:
   
   - title: Links
     children:
-    #- url: https://events.hifis.net/event/1892/
-    #  title: Event page
+    - url: https://events.hifis.net/event/1892/
+      title: Event page
+    - url: https://www.dfg.de/resource/blob/289676/89c03e7a7a8a024093602995974832f9/230921-statement-executive-committee-ki-ai-data.pdf
+      title: Statement by the Executive Committee of the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) on the Influence of Generative Models of Text and Image Creation onScience and the Humanities and on the DFG’s Funding Activities
+    - url: https://www.helmholtz.de/assets/helmholtz_gemeinschaft/Downloads/Helmholtz_Recommendations_on_use_of_AI_Version_1.0.pdf
+      title: Helmholtz Recommendations on the Use of Artificial Intelligence
     #- url: https://zenodo.org/records/...
     #  title: Download Slides
     - file: imprint.md
