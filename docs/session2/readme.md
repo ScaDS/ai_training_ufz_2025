@@ -1,3 +1,3 @@
-# Session 2: Good Scientific Practices and Ethical use of AI
+# Introduction
 
-Content
+Session 2 

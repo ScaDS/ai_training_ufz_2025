@@ -182,4 +182,18 @@ Petal is an AI-powered platform for discovering and analyzing research papers. F
   * CSV
   * Visualization graphs
 
-(Generated with "Llama3 405 on WestAI with 4b quantization" in [BlaBlaDor](https://helmholtz-blablador.fz-juelich.de/))
+## Claude AI
+
+Claude AI is a language model service that allows developers to integrate AI-powered text processing capabilities into their applications. The service provides a range of natural language processing (NLP) features, including text classification, sentiment analysis, and language translation. With Claude AI, developers can build intelligent chatbots, virtual assistants, and other AI-driven interfaces that can understand and respond to human language.
+
+* Input and Output Formats
+  * Input Formats:
+  * Text (plain text, HTML, Markdown)
+  * JSON (for structured data)
+* Output Formats:
+  * Text (plain text, HTML, Markdown)
+  * JSON (for structured data)
+  * XML (for specific use cases)
+
+
+(Generated with "Ministral - 8b" in [BlaBlaDor](https://helmholtz-blablador.fz-juelich.de/))
