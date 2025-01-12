@@ -34,11 +34,16 @@ project:
     - file: exercise1/prompt_templates.md
     - file: exercise1/Optional_Programming_DMP_generation.ipynb
 
-  - title: "Session 2: Ethical use of AI"
+  - title: "Session 2: Good Scientific Practice and Ethical use of AI"
     children:
-    - file: exercise2/readme.md
+    - file: session2/readme.md
 
-  - title: Optional programming exercise  
+  - title: "Session 3: Tools and Exercises"
+    children:
+    - file: session3/introduction.md
+    - file: session3/exercise.md
+
+  - title: "Optional programming exercise"  
     children:
     - file: exercise3/readme.md
     - file: exercise3/chatbot_explained.ipynb
@@ -46,8 +51,7 @@ project:
   
   - title: Links
     children:
-    #- url: https://events.hifis.net/event/1892/
-    #  title: Event page
+    - file: links.md
     #- url: https://zenodo.org/records/...
     #  title: Download Slides
     - file: imprint.md
