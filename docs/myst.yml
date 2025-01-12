@@ -31,7 +31,7 @@ project:
     - file: demo1/30_prompt_engineering.ipynb
     - file: exercise1/readme.md
 
-  - title: "Session 2: Good Scientific Practices and Ethical use of AI"
+  - title: "Session 2: Good Scientific Practice and Ethical use of AI"
     children:
     - file: session2/readme.md
 
