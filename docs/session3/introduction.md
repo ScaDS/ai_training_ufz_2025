@@ -1,14 +1,50 @@
 # Tools for the everydays research routine
 
-In this session, we will explore a variety of AI-powered tools that can be used in the everyday research routine. These tools can help researchers to discover relevant research papers, analyze and summarize scientific literature, and visualize complex data. By leveraging AI technology, researchers can gain new insights, identify key trends, and make more informed decisions in their research.
+In this session, we will explore a variety of AI-powered tools that can be used
+in the everyday research routine. These tools can help researchers to discover
+relevant research papers, analyze and summarize scientific literature, and
+visualize complex data. By leveraging AI technology, researchers can gain new
+insights, identify key trends, and make more informed decisions in their
+research.
 
 (generated with GitHub Copilot)
+
+## Open Research Knowledge Graph (ORKG) Summary
+
+The Open Research Knowledge Graph (ORKG) enables
+researchers to create, share, and reuse research knowledge in a structured and
+machine-readable format. ORKG allows researchers to describe their research
+contributions, such as papers, datasets, and methods, using a standardized
+vocabulary and ontology. This enables the creation of a knowledge graph that can
+be queried and analyzed to identify relationships and patterns in research
+outputs. ORKG aims to facilitate collaboration, reproducibility, and
+transparency in research by providing a common framework for representing and
+sharing research knowledge. The platform is designed to be domain-agnostic and
+can be used across various disciplines.
+
+* Input and Output Formats
+  * Input Formats:
+  * RDF (Resource Description Framework)
+  * JSON-LD (JavaScript Object Notation for Linked Data)
+  * CSV (Comma Separated Values)
+  * BibTeX (for bibliographic data)
+* Output Formats:
+  * RDF (Resource Description Framework)
+  * JSON-LD (JavaScript Object Notation for Linked Data)
+  * CSV (Comma Separated Values)
+  * HTML (for human-readable representations)
+  * SPARQL (for querying the knowledge graph)
 
 ## Perplexity
 
 [Perplexity](https://perplexity.ai/)
 
-Perplexity is a platform that uses AI to provide answers to complex questions. In the context of science, Perplexity can be used to find relevant information and insights from a vast amount of scientific literature. It can help researchers and students to quickly grasp the core concepts and findings of a research area. Additionally, Perplexity can assist in identifying gaps in current knowledge and suggesting new research directions.
+Perplexity is a platform that uses AI to provide answers to complex questions.
+In the context of science, Perplexity can be used to find relevant information
+and insights from a vast amount of scientific literature. It can help
+researchers and students to quickly grasp the core concepts and findings of a
+research area. Additionally, Perplexity can assist in identifying gaps in
+current knowledge and suggesting new research directions.
 
 * Input formats
   * Natural language queries
@@ -166,7 +202,7 @@ Litmaps is a platform that uses AI to create interactive maps of research papers
 
 ## Petal
 
-[Petal](https://petal.io/)
+[Petal](https://petal.org/)
 
 Petal is an AI-powered platform for discovering and analyzing research papers. For scientists, Petal can be used to quickly find relevant papers and authors, and to understand the relationships between different studies. Petal's algorithms can identify key themes and trends in a research area and provide insights into the current state of knowledge. Additionally, Petal can assist in identifying gaps in current knowledge and suggesting new research directions.
 
