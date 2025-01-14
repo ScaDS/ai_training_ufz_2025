@@ -21,7 +21,7 @@ project:
   # resources: [https://github.com/ScaDS/ai_training_ufz_2025] This should be the place where slides etc. could be mentioned. Haven't found a proper frontmatter documentation for it so far.
   open_access: true
   description:
-  copyright: "Copyright: Ronny Gey, UFZ Leipzig, Robert Haase, ScaDS.AI Leipzig, licensed <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY 4.0</a> unless mentioned otherwise. Contributions and feedback are welcome."
+  copyright: "Copyright: Ronny Gey, UFZ Leipzig, Robert Haase, ScaDS.AI Uni Leipzig, licensed <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\">CC-BY 4.0</a> unless mentioned otherwise. Contributions and feedback are welcome."
   keywords: [AI, OER]
   github: https://github.com/ScaDS/ai_training_ufz_2025
   # bibliography: []
@@ -34,6 +34,7 @@ project:
     - file: demo1/20_use_cases.ipynb
     - file: demo1/30_prompt_engineering.ipynb
     - file: exercise1/readme.md
+    - file: exercise1/example_projects.md
     - file: exercise1/dmp_template.md
     - file: exercise1/prompt_templates.md
     - file: exercise1/Optional_Programming_DMP_generation.ipynb
