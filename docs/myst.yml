@@ -6,6 +6,10 @@ project:
   - name: Robert Haase
     orcid: 0000-0001-5949-2327
     github: haesleinhuepf
+    affiliations:
+      - id: ulei
+        institution: Leipzig University
+        ror: 03s7gtk40
   - name: Ronny Gey
     orcid: 0000-0003-1028-1670
     github: geyslein
