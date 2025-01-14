@@ -30,6 +30,7 @@ project:
     - file: demo1/20_use_cases.ipynb
     - file: demo1/30_prompt_engineering.ipynb
     - file: exercise1/readme.md
+    - file: exercise1/example_projects.md
     - file: exercise1/dmp_template.md
     - file: exercise1/prompt_templates.md
     - file: exercise1/Optional_Programming_DMP_generation.ipynb
